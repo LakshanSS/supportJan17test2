@@ -1,0 +1,12 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.2.3"
+  export = ["covid19_statistics_to_email_fm"]
+  icon = "docs/icon.png"
+  keywords = ["Kind/Sample","Type/ManualTrigger","Category/Integration"]
+  name = "covid19_statistics_to_email_fm"
+  org = "lakshansivagnanasothy"
+  version = "1.2.1"
+
